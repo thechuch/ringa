@@ -1,0 +1,9 @@
+# Xcode user data
+*.xcuserstate
+*.xcuserdata/
+
+# Swift Package Manager
+.build/
+
+# macOS system files
+.DS_Store
